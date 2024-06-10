@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Face Recognition</string>
+    <string name="preview_photo">Preview Photo</string>
+    <string name="register_face">register face</string>
+    <string name="switch_camera">switch camera</string>
+    <string name="face_detected">Face Detected \n Please Click on  "+"  to Enter Name</string>
+    <string name="no_face_detected">No Face Detected!</string>
+
+    <string name="keep_face_inside">Try to keep your face inside the circle</string>
+    <string name="move_towards_camera">Move towards camera</string>
+    <string name="please_dont_smile">Please Don\'t smile</string>
+    <string name="please_open_left_eye">Please open left eye.</string>
+    <string name="please_open_right_eye">Please open right eye.</string>
+    <string name="move_your_chin_down">Please move your chin down.</string>
+    <string name="move_your_chin_up">Please move your chin up.</string>
+    <string name="please_keep_face_straight">Please keep your face straight.</string>
+    <string name="please_keep_neck_straight">Please keep your neck straight.</string>
+    <string name="hold_still">Hold Still</string>
+</resources>
